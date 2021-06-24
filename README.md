@@ -1,4 +1,7 @@
 # ibook
+The objective of this project is apply my acquired knowlodges in CSS Grid, VueJS 3, Vuex and NuxtJS.
+
+This is a ebook repository application.
 
 ## Build Setup
 
